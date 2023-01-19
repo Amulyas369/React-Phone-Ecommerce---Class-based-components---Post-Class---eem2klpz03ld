@@ -8,4 +8,3 @@ export default class CartColumns extends Component {
       </div>
     );
   }
-}
